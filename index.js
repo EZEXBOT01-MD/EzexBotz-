@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Ezex station.
+   * Contact Me on wa.me/6283845930691
    * Follow https://github.com/DikaArdnt
 */
 
